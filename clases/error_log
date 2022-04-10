@@ -1,0 +1,2 @@
+[25-Mar-2019 16:39:23 America/Santiago] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/vld1092/public_html/acle/clases/Conexion.php on line 10
+[25-Mar-2019 16:39:25 America/Santiago] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/vld1092/public_html/acle/clases/Conexion.php on line 10
